@@ -11,6 +11,7 @@ module dersler1 {
 	exports day36_staticClassMembers;
 	exports day12_controlFlowStatements_6;
 	exports day37_inheritance;
+	exports day13_methods_Part1;
 	exports day22_stringManipulation_Lab;
 	exports day11_controlFlowStatements_5;
 	exports day34_Constructors;
