@@ -2,7 +2,7 @@ package day36_staticClassMembers;
 
 public class Countable {
 	
-	static int instanceCount;  //instance vriable
+	static int instanceCount;  //instance variable
 	int instanceCount2;
 	
 	public Countable() {
